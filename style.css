@@ -1,0 +1,71 @@
+/*
+Theme Name: WP News
+Theme URI: 
+Author: Sazid Mahmud
+Author URI: https://fb.com/sazidmahmud36
+Description: Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column 
+Version: 1.0
+
+*/
+
+.meta{
+	background: #333;
+	color: #fff;
+	padding: 5px;
+	border-bottom: 3px solid #666;
+}
+.post-thumbnail img{
+	width: 100%;
+	height: auto;
+}
+.sidebar{
+	padding-left: 25px;
+}
+.sidebar li{
+	list-style: none;
+	line-height: 2.2em;
+	border-bottom: 1px dotted #ccc;
+}
+.side-widget{
+	margin-bottom: 25px;
+}
+.comments{
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin-bottom: 20px;
+	margin-top: 10px; 
+}
+.comments h3, .comments h2{
+	background: #f4f4f4;
+	color: #333;
+	padding: 5px;
+}
+.comment-body{
+	border: 1px solid #ccc;
+	margin-bottom: 10px;
+	padding: 20px 10px;
+}
+.comment-meta{
+	background: #333;
+	color: #fff;
+	padding: 10px;
+	overflow: auto;
+}
+.comment-meta img{
+	float: left;
+	margin-right: 10px;
+}
+.comment-meta time{
+	margin-right: 12px;
+}
+.comment-reply-link{
+	background:#ccc;
+	color: #fff;
+	display: inline-block
+	padding:10px 15px;
+}
+.comment-form input, .comment-form textarea{
+	width: 100%;
+	padding: 3px;
+	border: 1px solid #ccc;
+}
